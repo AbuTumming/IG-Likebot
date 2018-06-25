@@ -28,7 +28,7 @@ After waiting you can paste the ID of the Post you want to like into the console
 
 You then have to wait for the Like to be done (console message once liked).
 
-####Example
+###Example
 
 ![](https://i.tiehm.me/9e76f1f1-6033-4428-9074-5406ede3974b.png)
 

@@ -1,0 +1,27 @@
+{
+  "name": "instagrambot",
+  "version": "0.1.0",
+  "description": "Instagram Bot",
+  "main": "dist/app",
+  "dependencies": {
+    "puppeteer": "^1.5.0",
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.3.5",
+    "@types/puppeteer": "^1.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiehm/InstagramBot.git"
+  },
+  "author": "tiehm <admin@tiehm.me> (https://tiehm.me)",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/tiehm/InstagramBot/issues"
+  },
+  "homepage": "https://github.com/tiehm/InstagramBot#readme"
+}
